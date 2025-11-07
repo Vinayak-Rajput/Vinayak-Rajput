@@ -1,20 +1,19 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vinayak Rajput 👋
 
 
 
 ## About Me
 
-I'm a [Your Role, e.g., Full-Stack Developer, Data Science Student] based in [Your Location]. I'm passionate about [Your Passion, e.g., building accessible web applications, machine learning, etc.].
+I'm a CS undergrad based in Bengaluru. I'm passionate about developing accessible applications and solving problems.
 
-* 🔭 I’m currently working on [Your Project Name].
-* 🌱 I’m currently learning [Technology/Concept].
-* 👯 I’m looking to collaborate on [Type of Project, e.g., open-source projects related to...].
-* 🤔 I’m looking for help with [A problem or concept].
-* 💬 Ask me about [Topics you are comfortable with].
-* 📫 How to reach me: [your-email@example.com]
-* 😄 Pronouns: [He/Him, She/Her, They/Them, etc.]
-* ⚡ Fun fact: [A fun fact about you].
-
+* 🔭 I’m currently working on Phishing Detection.
+* 🌱 I’m currently learning Javascript, Nodejs.
+* 👯 I’m looking to collaborate on projects under CyberSecurity domain.
+* 🤔 I’m looking for help with Web Development.
+* 💬 Ask me about Object Oriented Programming & CyberSecurity.
+* 📫 How to reach me: vk.ra.org@gmail.com
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I'm one of those guys who actually work on projects purely on my desire to learn rather than just cause sake of it
 ---
 
 ## 💻 My Tech Stack
@@ -36,8 +35,8 @@ Here are some of the technologies I work with:
 
 [comment]: <> (Replace "YOUR-USERNAME" with your GitHub username)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-Rajput&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Rajput&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -46,7 +45,7 @@ Here are some of the technologies I work with:
 
 [comment]: <> (Find more badges at: https://shields.io)
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/vinayak-rajput-625981252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
