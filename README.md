@@ -56,7 +56,7 @@ Here are some of the technologies I work with:
   <a href="https://linkedin.com/in/vinayak-rajput-625981252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
+  <a href="https://x.com/vkr_021" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="httpsS://YOUR-PORTFOLIO-WEBSITE.com" target="_blank">
