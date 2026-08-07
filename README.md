@@ -27,6 +27,7 @@ Backend & Scalability: Experienced in developing high-performance web applicatio
 Security-First Mindset: Certified JNCIA-SEC and Google Cybersecurity professional; I treat security as a primary feature, not an afterthought—from Blockchain logs to automated threat classification.
 
 
+Graduated in 2026 from Bangalore Institute of Technology, and currently working as a GET (Backend Developer) at HDFC Life.
 
 ## The Tech I Use:
 
@@ -36,7 +37,7 @@ AI/ML: LSTM, CNN, Prompt Engineering, Gemini API.
 
 Infrastructure: AWS (EC2, S3), Google Cloud, Docker, Git.
 
-comment]: <> (You can find more icons at: https://devicon.dev/)
+[comment]: <> (You can find more icons at: https://devicon.dev/)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -80,9 +81,6 @@ comment]: <> (You can find more icons at: https://devicon.dev/)
   </a>
 </p>
 
-
-
-Graduated in 2026 from Bangalore Institute of Technology, and currently working as a GET (Backend Developer) at HDFC Life.
 
 ## 💻 My Tech Stack
 
