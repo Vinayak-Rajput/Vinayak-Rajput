@@ -56,16 +56,6 @@ Infrastructure: AWS (EC2, S3), Google Cloud, Docker, Git.
 
 ---
 
-## 📊 My GitHub Stats
-
-[comment]: <> (Replace "YOUR-USERNAME" with your GitHub username)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-Rajput&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Rajput&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 [comment]: <> (Find more badges at: https://shields.io)
@@ -80,40 +70,6 @@ Infrastructure: AWS (EC2, S3), Google Cloud, Docker, Git.
     <img src="https://img.shields.io/badge/Portfolio-Website-blue.svg?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
-
-
-## 💻 My Tech Stack
-
-Here are some of the technologies I work with:
-
-[comment]: <> (You can find more icons at: https://devicon.dev/)
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" alt="Kali Linux" width="40" height="40"/>
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-[comment]: <> (Replace "YOUR-USERNAME" with your GitHub username)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-Rajput&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Rajput&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
