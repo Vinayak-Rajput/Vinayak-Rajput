@@ -72,3 +72,5 @@ Infrastructure: AWS (EC2, S3), Google Cloud, Docker, Git.
 </p>
 
 [![Vinayak's GitHub stats](https://github-stats-extended.vercel.app/api?username=vinayak-rajput)](https://github.com/stats-organization/github-stats-extended)
+
+[![Other Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Vinayak-Rajput&langs_count=4&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=Vinayak-Rajput&langs_count=4&theme=shadow_green)
